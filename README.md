@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/my26dot2/EQ828_116A/_apis/build/status/EQ828A%20-%20CI?branchName=master)](https://dev.azure.com/my26dot2/EQ828_116A/_build/latest?definitionId=16&branchName=master)
+
 # Sample NodeJS application for Azure Pipelines docs
 # adding testing notes EQ828A 01-16
 
