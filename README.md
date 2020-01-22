@@ -1,7 +1,7 @@
 [![Build Status](https://dev.azure.com/my26dot2/EQ828_116A/_apis/build/status/EQ828A%20-%20CI?branchName=master)](https://dev.azure.com/my26dot2/EQ828_116A/_build/latest?definitionId=16&branchName=master)
 
 # Sample NodeJS application for Azure Pipelines docs
-# adding testing notes EQ828A 01-16 -3 ACD1024
+# adding testing notes LEA122
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building JavaScript or NodeJS applications, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
